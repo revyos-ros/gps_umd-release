@@ -2,6 +2,12 @@
 Changelog for package gps_umd
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2025-05-27)
+------------------
+
+2.0.5 (2025-05-20)
+------------------
+
 2.0.4 (2024-05-07)
 ------------------
 * Updating CI process (`#85 <https://github.com/swri-robotics/gps_umd/issues/85>`_)
